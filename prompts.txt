@@ -1,0 +1,5 @@
+
+<Other> Given a programming question {question}. <my answer> {my_answer} <my answer>.  if my answer is correct, praise me. Else, give me the hint to correct the code and explain why my code is wrong. If the response contains any piece of code, format it. <Other>
+
+<Main> Given a programming question {question}. <my answer> {my_answer} <my answer>.  if my answer is correct, praise me. Else, give me the hint (do not give the solution) to correct the code and explain why my code is wrong. If the response contains any piece of code, format it. <Main>
+

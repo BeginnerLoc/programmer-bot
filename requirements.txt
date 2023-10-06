@@ -1,0 +1,6 @@
+# test_ven\Scripts\activate.bat
+aiohttp
+botbuilder
+botbuilder.core
+httpx
+openai
